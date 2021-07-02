@@ -1,0 +1,21 @@
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\bin\Debug\netstandard2.0\My Daily Activity.deps.json
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\bin\Debug\netstandard2.0\My Daily Activity.dll
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\bin\Debug\netstandard2.0\ref\My Daily Activity.dll
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\bin\Debug\netstandard2.0\My Daily Activity.pdb
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\My Daily Activity.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\My Daily Activity.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\My Daily Activity.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\My Daily Activity.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\My Daily Activity.dll
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\ref\My Daily Activity.dll
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\My Daily Activity.pdb
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\SchedulePage.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\Domingo.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\Jueves.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\Martes.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\Miercoles.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\Sabado.xaml.g.cs
+C:\Users\Usuario\Desktop\My Daily Activity\My Daily Activity\obj\Debug\netstandard2.0\Viernes.xaml.g.cs

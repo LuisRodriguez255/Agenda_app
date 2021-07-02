@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="My_Daily_Activity.Martes">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Cyan">
+                <Label HorizontalOptions="Start">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Martes"
+                                      FontSize="30"
+                                      FontAttributes="Bold"
+                                      TextDecorations="Underline"/>
+                            <Span Text="
+                                      
+                                            Que no bajen los ánimos!"
+                                      FontAttributes="Bold"/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+            </Frame>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       x:Name="txt_line_8"/>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       TextTransform="Lowercase"
+                       x:Name="txt_line_9"/>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       TextTransform="Lowercase"
+                       x:Name="txt_line_10"/>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       TextTransform="Lowercase"
+                       x:Name="txt_line_11"/>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       TextTransform="Lowercase"
+                       x:Name="txt_line_12"/>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       TextTransform="Lowercase"
+                       x:Name="txt_line_13"/>
+            <Entry IsReadOnly="False"
+                       MaxLength="41"
+                       ClearButtonVisibility="WhileEditing"
+                       TextTransform="Lowercase"
+                       x:Name="txt_line_14"/>
+
+            <DatePicker HorizontalOptions="End"  
+                        TranslationY="-445"
+                        IsEnabled="False"
+                        TextColor="Black">
+            </DatePicker>
+
+            <Button HorizontalOptions="Center"
+                    TranslationX="-75"
+                    Text="GUARDAR AGENDA"
+                    x:Name="btn_saveChanges_2"
+                    CornerRadius="5"
+                    BorderWidth="5"
+                    BackgroundColor="LightBlue"/>
+            <Button HorizontalOptions="Center"
+                    TranslationX="75"
+                    TranslationY="-54"
+                    Text="EDITAR AGENDA"
+                    x:Name="btn_edit_2"
+                    Clicked="btn_edit_2_Clicked"
+                    CornerRadius="5"
+                    BorderWidth="5"
+                    BackgroundColor="LightBlue"/>
+            <Button HorizontalOptions="Center"
+                    TranslationX="-70"
+                    TranslationY="-54"
+                    Text="BORRAR REGISTROS"
+                    x:Name="btn_borrar_2"
+                    Clicked="btn_borrar_2_Clicked"
+                    CornerRadius="5"
+                    BorderWidth="5"
+                    BackgroundColor="LightBlue"/>
+            <Button HorizontalOptions="Center"
+                    TranslationX="80"
+                    TranslationY="-108"
+                    Text="SIGUIENTE   ->"
+                    x:Name="btn_next_2"
+                    Clicked="btn_next_2_Clicked"
+                    CornerRadius="5"
+                    BorderWidth="5"
+                    BackgroundColor="LightBlue"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

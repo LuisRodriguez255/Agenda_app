@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:MarcTron.Plugin.Controls;assembly=Plugin.MtAdmob"
+             x:Class="My_Daily_Activity.MainPage">
+
+    <StackLayout Orientation="Vertical"
+                 BackgroundColor="DarkOrange">
+        <controls:MTAdView
+            BackgroundColor="White"
+            HeightRequest="100"
+            IsEnabled="True"
+            IsVisible="True"
+            x:Name="adMob"
+            AdsId="ca-app-pub-6443580320687365/4787648741"
+            VerticalOptions="Start"/>
+
+        <Button x:Name="btn_empezar"
+                BackgroundColor="LightBlue"
+                HorizontalOptions="Center"
+                Text="EMPEZAR A ORGANIZARME"
+                TranslationY="200"
+                CornerRadius="5"
+                Clicked="btn_empezar_Clicked"/>
+        <Button x:Name="btn_info"
+                BackgroundColor="LightBlue"
+                HorizontalOptions="Center"
+                Text="ACERCA DE"
+                WidthRequest="205"
+                TranslationY="200"
+                CornerRadius="5"
+                BorderWidth="5"
+                Clicked="btn_info_Clicked"/>
+        <Button x:Name="btn_salir"
+                BackgroundColor="LightBlue"
+                HorizontalOptions="Center"
+                Text="SALIR"
+                WidthRequest="205"
+                TranslationY="200"
+                CornerRadius="5"
+                BorderWidth="5"
+                Clicked="btn_salir_Clicked"/>
+        <Label x:Name="lbl_info"
+               FontAttributes="Bold"
+               VerticalOptions="Center"
+               Padding="35"
+               TranslationY="100"
+               IsVisible="False"/>
+        <Button x:Name="btn_atras"
+                Text="ATRÁS"
+                BackgroundColor="LightBlue"
+                HorizontalOptions="Center"
+                TranslationY="100"
+                IsVisible="False"
+                CornerRadius="5"
+                BorderWidth="5"
+                Clicked="btn_atras_Clicked"/>
+    </StackLayout>
+</ContentPage>
